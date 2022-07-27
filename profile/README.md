@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img width="150px" src="Code-Outside-Logo1.png">
+    <img width="150px" src="https://github.com/Code-Outside.png">
   </a>
 </p>
 <h1 align="center">Code-Outside</h1>
